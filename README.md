@@ -1,4 +1,4 @@
-#Steady Labs Display Tree
+#Steady Labs Display Tree - UI
 
 ##Introduction
 Steady ltd creates interactive installations. The openframeworks community has provided a great starting point, but we found it was limited for building more complex states and event management. To address this, we created the display tree to mimic some of the parenting and event behaviors like those in Adobe's flash Actionscript 3, but with the capability to build on these behaviors that C++ can provide us.
